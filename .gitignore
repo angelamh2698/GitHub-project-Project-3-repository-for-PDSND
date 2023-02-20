@@ -1,1 +1,5 @@
-.github/**
+#we create this with the names of the files used for the bikeshare project
+washingtong.csv
+chicago.csv
+new_ork_city.csv
+
